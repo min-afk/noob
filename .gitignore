@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+noobenv
+/static
+.DS_Store
